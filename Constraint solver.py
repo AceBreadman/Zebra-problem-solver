@@ -1,3 +1,5 @@
+#Note: Requires 'pip install python-constraint'
+
 from constraint import AllDifferentConstraint, InSetConstraint, Problem
 
 # variables
